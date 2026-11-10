@@ -1039,7 +1039,7 @@ export default function App() {
         <div className="max-w-4xl mx-auto flex flex-col md:flex-row justify-between items-center text-xs text-slate-400 gap-2 text-center md:text-left">
           <div>
             <p className="font-bold text-slate-300">Conecta Mayor • Plataforma Inteligente de Inclusión Digital</p>
-            <p>Presentado por: Sinahy López | Universidad de las Ciencias "Humberto Fernández Morán"</p>
+            <p>Presentado por: Juan Bermudez y Sinahy López | Universidad de las Ciencias "Humberto Fernández Morán"</p>
           </div>
           <div className="bg-slate-900 border border-slate-800 px-3 py-1 rounded-full text-amber-400 font-semibold">
             Prototipo MVP Interactivo

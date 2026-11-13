@@ -3,7 +3,7 @@ import {
   ShieldAlert,
   BookOpen,
   CreditCard,
-  MessageCircleQuestion,
+  HelpCircle,
   Volume2,
   CheckCircle2,
   AlertTriangle,
@@ -364,7 +364,7 @@ export default function App() {
                 className="bg-white hover:bg-[#F1F5F9] border-2 border-[#0F294A] border-l-8 border-l-[#0369A1] rounded-2xl p-5 text-left shadow-sm flex items-center gap-4 transition"
               >
                 <div className="bg-sky-100 p-4 rounded-2xl shrink-0">
-                  <MessageCircleQuestion className="w-9 h-9 text-[#0369A1]" />
+                  <HelpCircle className="w-9 h-9 text-[#0369A1]" />
                 </div>
                 <div>
                   <span className="inline-block bg-sky-100 text-sky-900 text-xs font-extrabold px-2.5 py-0.5 rounded-md mb-1">
